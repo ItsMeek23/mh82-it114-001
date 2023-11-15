@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> IT114 Chatroom Milestone 2</td></tr>
 <tr><td> <em>Student: </em> Meekat Hadi (mh82)</td></tr>
-<tr><td> <em>Generated: </em> 11/15/2023 5:44:35 PM</td></tr>
+<tr><td> <em>Generated: </em> 11/15/2023 5:50:11 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-001-F23/it114-chatroom-milestone-2/grade/mh82" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Implement the features from Milestone2 from the proposal document:&nbsp; <a href="https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view">https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view</a></p>
 </td></tr></table>
@@ -37,8 +37,8 @@
 <tr><td> <em>Sub-Task 3: </em> Explain how you got each style applied</td></tr>
 <tr><td> <em>Response:</em> <p>By using string messages, each style was applied by implemented where if the<br>text contained&nbsp; a certain character, the string will detect the message input and<br>replace the overall text to apply each style. Using if statements, if &quot;**&quot;<br>was typed, the text would replace the ** with a &lt;b&gt; html tag<br>to indicate it is bold. For italics and underline it would be &quot;*&quot;<br>and &quot;_&quot; which would be replaced with &lt;i&gt; and &lt;u&gt; html tags in<br>the output. Once the UI is implemented in Milestone 3, these HTML tags<br>will not appear in the terminal but will be applied in the UI.<br>For the color, this was the same as well where using either colors<br>of Red, blue, green, or yellow, whenever an input string of any of<br>those colors are in the input, the html tag of those colors will<br>replace the text.&nbsp;<br></p><br></td></tr>
 </table></td></tr>
-<table><tr><td> <em>Deliverable 4: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707795-a9c94a71-7871-4572-bfae-ad636f8f8474.png"></td></tr>
+<table><tr><td> <em>Deliverable 4: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Include the pull request for Milestone2 to main</td></tr>
-<tr><td>Not provided</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/ItsMeek23/mh82-it114-001/pull/5">https://github.com/ItsMeek23/mh82-it114-001/pull/5</a> </td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-001-F23/it114-chatroom-milestone-2/grade/mh82" target="_blank">Grading</a></td></tr></table>
