@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> IT114 Chatroom Milestone3</td></tr>
 <tr><td> <em>Student: </em> Meekat Hadi (mh82)</td></tr>
-<tr><td> <em>Generated: </em> 11/29/2023 10:56:25 PM</td></tr>
+<tr><td> <em>Generated: </em> 11/29/2023 10:58:13 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-001-F23/it114-chatroom-milestone3/grade/mh82" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Implement the features from Milestone3 from the proposal document:&nbsp;&nbsp;<a href="https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view">https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view</a></p>
 </td></tr></table>
@@ -80,8 +80,8 @@
 <tr><td> <em>Sub-Task 3: </em> Briefly explain the code logic of how this was achieved</td></tr>
 <tr><td> <em>Response:</em> <p>When a user types /mute and then the username of the person who<br>is going to be muted, the muted user has been effectively removed the<br>chatroom. While they can type and interact with the features in the UI,<br>whatever they type and try to send will be voided in nothing as<br>shown with the if statement. If the muted user tries to send a<br>message to the room while it does show up on their terminal, it<br>wont show up for others in the room as the if statement will<br>remove their message as long as the message is less than 1 character<br>long. Once the user has been muted, a message will type out in<br>bold where it will say that that the user has been muted.&nbsp;<br></p><br></td></tr>
 </table></td></tr>
-<table><tr><td> <em>Deliverable 7: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707795-a9c94a71-7871-4572-bfae-ad636f8f8474.png"></td></tr>
+<table><tr><td> <em>Deliverable 7: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Pull request from milestone3 to main</td></tr>
-<tr><td>Not provided</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/ItsMeek23/mh82-it114-001/pull/6">https://github.com/ItsMeek23/mh82-it114-001/pull/6</a> </td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-001-F23/it114-chatroom-milestone3/grade/mh82" target="_blank">Grading</a></td></tr></table>
