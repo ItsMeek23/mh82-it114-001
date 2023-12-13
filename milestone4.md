@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> IT114 Chatroom Milestone4</td></tr>
 <tr><td> <em>Student: </em> Meekat Hadi (mh82)</td></tr>
-<tr><td> <em>Generated: </em> 12/13/2023 2:04:32 PM</td></tr>
+<tr><td> <em>Generated: </em> 12/13/2023 2:10:13 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-001-F23/it114-chatroom-milestone4/grade/mh82" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Implement the features from Milestone3 from the proposal document:&nbsp;&nbsp;<a href="https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view">https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view</a></p>
 </td></tr></table>
@@ -11,8 +11,8 @@
 </td></tr>
 </table></td></tr>
 <tr><td> <em>Sub-Task 2: </em> Add screenshot of exported data</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2023-12-12T23.38.48image.png.webp?alt=media&token=9e0dd7e5-e1ed-4bb7-b192-62c84b044157"/></td></tr>
-<tr><td> <em>Caption:</em> <p>Exported chat of conversation from the chatroom. Some examples of bold, italics, and<br>underlining format is used with the text and with color as well. <br></p>
+<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2023-12-13T19.09.22image.png.webp?alt=media&token=8f200f41-4444-4637-8103-f8a0b273a99a"/></td></tr>
+<tr><td> <em>Caption:</em> <p>Exported chat of conversation from the chatroom. Some examples of bold, italics, and<br>underlining format is used with the text and with color as well in<br>HTML format<br></p>
 </td></tr>
 </table></td></tr>
 <tr><td> <em>Sub-Task 3: </em> Briefly explain how you implemented this</td></tr>
